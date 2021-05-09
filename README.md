@@ -1,2 +1,2 @@
 # ReactButtonChangeStateExample
-Created with CodeSandbox
+Quick and simple React example for demonstrating purposes.
