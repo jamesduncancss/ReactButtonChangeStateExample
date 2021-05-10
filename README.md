@@ -1,2 +1,2 @@
 # ReactButtonChangeStateExample
-Quick and simple React example for demonstrating purposes.
+Quick and simple React example of updating State.
